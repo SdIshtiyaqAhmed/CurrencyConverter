@@ -3,7 +3,8 @@ This web application allows users to compare the exchange rate of one currency t
 
 Visit the website: https://sdishtiyaqahmed.github.io/CurrencyConverter/
 
-![image](https://github.com/user-attachments/assets/d53892cc-e7c3-4ef2-b712-09d912771f5c)
+![image](https://github.com/user-attachments/assets/eea6a5b0-ad8b-495e-b4dc-5df664c3c456)
+
 
 
 
